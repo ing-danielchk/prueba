@@ -12,7 +12,7 @@ use App\Models\User;
 class AuthController extends Controller
 {
     /**
-     * Create a new AuthController instance.
+     * Create a new AuthController instance...
      *creamo una instancia de middleware, es elprimer objeto que se llama al creerlo, pasandole los parametros al objeto
      * @return void
      */
